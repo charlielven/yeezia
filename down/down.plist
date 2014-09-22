@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://game173.moredoo.com/0.0.10.ipa</string>
+                   <string>https://github.com/charlielven/yeezia/blob/master/down/0.0.10.ipa?raw=true</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://mnew14.yyport.com/dd/icon50.png</string>
+                   <string>https://raw.githubusercontent.com/charlielven/yeezia/master/down/icon50.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://mnew14.yyport.com/dd/icon50.png</string>
+                   <string>https://raw.githubusercontent.com/charlielven/yeezia/master/down/icon50.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
