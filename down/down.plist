@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
    <key>items</key>
@@ -16,20 +14,11 @@
                <dict>
                    <key>kind</key>
                    <string>display-image</string>
-                   <key>needs-shine</key>
-                   <true/>
                    <key>url</key>
                    <string>http://101.71.249.173:90/icon.png</string>
                </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>full-size-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>http://101.71.249.173:90/icon.png</string>
-               </dict>
-           </array><key>metadata</key>
+           </array>
+           <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
                <string>coolcar.moredoo.com.gamecar-main</string>
@@ -37,10 +26,8 @@
                <string>1.0.0</string>
                <key>kind</key>
                <string>software</string>
-               <key>subtitle</key>
-               <string>åè½¦è€è™æœº</string>
                <key>title</key>
-               <string>åè½¦è€è™æœº</string>
+               <string>Ãû³µÀÏ»¢»ú</string>
            </dict>
        </dict>
    </array>
