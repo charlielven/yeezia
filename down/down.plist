@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
    <key>items</key>
@@ -26,6 +28,8 @@
                <string>1.0.0</string>
                <key>kind</key>
                <string>software</string>
+               <key>subtitle</key>
+               <string>名车老虎机</string>
                <key>title</key>
                <string>名车老虎机</string>
            </dict>
